@@ -1,0 +1,13 @@
+接口自动化 http://test.lemonban.com/futureloan/mvc/api/member/register
+web自动化  http://test.lemonban.com/futureloan/lmcanon_web_auto/mng/login.html
+
+
+接口自动化，数据库操作用户
+用户名：test
+密码：test
+
+svn://120.79.176.157/lemon68/auto_test
+用户名：lemon68 密码：lemon2017!@
+
+svn://120.79.176.157/lemon-scb11
+用户名：lemon-scb11 密码：lemon2017!@
